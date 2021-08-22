@@ -1,1 +1,1 @@
-# SocietryFeeRecordPyQt
+# SocietyFeeRecordPyQt
